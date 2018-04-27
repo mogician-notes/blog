@@ -7,3 +7,5 @@
 [首页 | Index](https://github.com/mogician-notes/blog/issues)
 
 [写在前面 | Preface](https://github.com/mogician-notes/blog/issues/1)
+
+[关于 | About](https://github.com/mogician-notes/blog/issues/2)
