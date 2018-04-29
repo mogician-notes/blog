@@ -1,5 +1,3 @@
->**Sorry, the translation will be completed as soon as possible 😅** 
-
 Today is the first day of the Labor Day holiday. I slept well at home and decided to write an article.
 
 >This article focuses on how Bonbons's dependency injection system is designed, and the same ideas apply to designing any background IoC framework.
