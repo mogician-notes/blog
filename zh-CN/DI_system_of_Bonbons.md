@@ -1,6 +1,3 @@
-> 翻译会尽快跟上。
->`Translation work will be completed as soon as possible`
-
 今天是五一假期的第一天，在家睡得很舒服，那就起来写篇文章。
 
 >本文主要讲了Bonbons的依赖注入系统是如何设计的，但思路同样适用于设计任何后台IoC框架
@@ -176,3 +173,5 @@ class DIEntry {
 
 
 > 本篇Blog未完成，正在施工中...
+
+**查看源** : [**issue页**](https://github.com/mogician-notes/blog/issues/4)
