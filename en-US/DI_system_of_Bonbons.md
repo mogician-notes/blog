@@ -1,4 +1,4 @@
->`Sorry, the translation will be completed as soon as possible`
+>**Sorry, the translation will be completed as soon as possible 😅** 
 
 今天是五一假期的第一天，在家睡得很舒服，那就起来写篇文章。
 
